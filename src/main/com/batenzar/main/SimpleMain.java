@@ -1,4 +1,4 @@
-package com.batenzar.test;
+package com.batenzar.main;
 
 public class SimpleMain {
 
